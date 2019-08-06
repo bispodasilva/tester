@@ -1,0 +1,28 @@
+<html>
+	<head>
+		<title>HELLO WORLD</title>
+	</head>
+	
+	<body style="background-color:green;">
+	<div style="width:500;background-color:#ffffff;margin:200px auto;padding:20px;border-radius:7px;">
+		<p><strong>Neste momento você deverá desenvolver uma página estática com os seguintes itens:</strong></p>
+
+		<h1><b>Palavras em negrito</b>, <i>ilálico</i>, grandes e <span style="color:red;">coloridas;</span></h1>
+		
+		<ul>
+		<li>O fundo da página deverá ser verde;</li>
+		
+		<li><span style="color:blue;">O texto que você escolher deverá ser escrito na cor azul;</span></li>
+
+		<li>Apenas uma palavra do texto deverá ser <b style="color:yellow;background-color:#000000;">amarela;</b></li>
+
+		<li>Você deverá inserir uma imagem no seu documento;</li>
+
+		<li>e você der um click nesta imagem deverá abrir uma nova página com o endereço: www.google.com.br.</li>
+		</ul>
+		<a target="_blank" href="http://www.google.com.br"><img style="width:100%;" src="https://olhardigital.com.br/uploads/acervo_imagens/2019/03/r16x9/20190311123149_1200_675_-_google_app.jpg"/>
+		</a>
+		<p>Bom trabalho!!!!</p>
+	</div>
+	</body>
+</html>
